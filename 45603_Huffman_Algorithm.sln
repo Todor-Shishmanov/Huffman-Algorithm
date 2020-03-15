@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45603_Huffman_Algorithm", "45603_Huffman_Algorithm\45603_Huffman_Algorithm.vcxproj", "{1747AD82-E556-4C79-A105-F1AA7592C747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Debug|x64.ActiveCfg = Debug|x64
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Debug|x64.Build.0 = Debug|x64
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Debug|x86.ActiveCfg = Debug|Win32
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Debug|x86.Build.0 = Debug|Win32
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Release|x64.ActiveCfg = Release|x64
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Release|x64.Build.0 = Release|x64
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Release|x86.ActiveCfg = Release|Win32
+		{1747AD82-E556-4C79-A105-F1AA7592C747}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD59A267-3D0F-4626-909C-7E4553E69340}
+	EndGlobalSection
+EndGlobal
